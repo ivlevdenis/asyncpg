@@ -1,3 +1,4 @@
 [submodule "asyncpg/pgproto"]
 	path = asyncpg/pgproto
-	url = https://github.com/MagicStack/py-pgproto.git
+	url = git@github.com:ivlevdenis/py-pgproto.git
+	branch = c-api-datetime
